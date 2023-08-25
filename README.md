@@ -5,7 +5,7 @@
 <br/>  
 
 # Hi There 👋
-### Currently enrolled in CAUCSE 19 🏫
+### Currently enrolled as a student of CAUCSE 🏫
 
 <br/>
 
