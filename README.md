@@ -5,10 +5,11 @@
 <br/>  
 
 # Hi There 👋
+### Currently enrolled in CAUCSE 19 🏫
 
 <br/>
 
-##  📋 Once I've Used 
+##  Once I've Used 🔽
 
 <div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
@@ -30,7 +31,7 @@
 
 <br/>
 
-## 📇 Github Stats & Solved.ac
+## Github Stats & Solved.ac 🔽
 
 <table><tr><td valign="top" width="50%">
 
