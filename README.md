@@ -6,7 +6,7 @@
 
 # Welcome ! :feelsgood:
 
-###### 🏫 Currently enrolled as a student of CAUCSE 
+### 🏫 Currently enrolled as a student of CAUCSE 
 
 
 <br/>
