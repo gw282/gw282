@@ -1,17 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=27b0ed&height=150&section=header&fontColor=4cad31&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+<div algin="right">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgw282&count_bg=%237497DD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile+views&edge_flat=false" align="right"/>
+</div>
 
-<div align="center"> 
+<br/>  
 
-###  Welcome to my github profile ! 🎆
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=7l0l0)](https://solved.ac/7l0l0)
- 
-<br/>
-  
-####  :clipboard: Once I've Used 
+## Hi There 👋 
+### I'm Giwoong Lee.
 
 <br/>
- 
+
+
+##  📋 Once I've Used 
+
+<div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -27,12 +28,21 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 
+</div>
+
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gw282&layout=compact&theme=tokyonight)
+## 📇 Github Stats & Solved.ac
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgw282&count_bg=%235F98C4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gw282&hide_border=true&layout=compact" style="width: 100%; height: 200px;" />
+
+</td><td valign="top" width="50%">
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=7l0l0)](https://solved.ac/7l0l0)
+
+</td></tr></table>
 
 
 
