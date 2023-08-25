@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  <br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gw282&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gw282)]    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gw282)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={7l0l0})](https://solved.ac/{handle})
  <br/>
