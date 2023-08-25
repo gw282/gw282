@@ -4,7 +4,7 @@
 
 <br/>  
 
-# Welcome to my Github page :feelsgood:
+# Welcome ! :feelsgood:
 ### 🏫 Currently enrolled as a student of CAUCSE 
 
 <br/>
