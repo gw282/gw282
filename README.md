@@ -4,11 +4,9 @@
 
 <br/>  
 
-## Hi There 👋 
-### I'm Giwoong Lee.
+## Hi There 👋
 
 <br/>
-
 
 ##  📋 Once I've Used 
 
