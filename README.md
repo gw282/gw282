@@ -2,12 +2,11 @@
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgw282&count_bg=%237497DD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile+views&edge_flat=false" align="right"/>
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=87cedb&height=75&section=header&animation=fadeIn&fontAlignY=55) 
+![header](https://capsule-render.vercel.app/api?type=Waving&color=87cedb&height=75&section=header&fontColor=ffffff&fontSize=10&animation=fadeIn&fontAlignY=55) 
 
 # Welcome ! :feelsgood:
 
 ###### 🏫 Currently enrolled as a student of CAUCSE 
-
 
 
 <br/>
