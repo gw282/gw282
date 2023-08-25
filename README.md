@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ###  :wave: Welcome my github profile !
 
  <br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?gw282=anuraghazra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]    
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gw282&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gw282)]    
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={7l0l0})](https://solved.ac/{handle})
  <br/>
