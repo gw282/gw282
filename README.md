@@ -9,7 +9,7 @@
 ✉ E-mail: fear369@naver.com
  
 🏫 Education: 
-Chung-Ang University, School of Software (2019~)
+School of Software (2019~)
  
  <br>
  
@@ -30,10 +30,18 @@ Chung-Ang University, School of Software (2019~)
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <br>
--**App Development**:
+-**Multi-Platform Development**:
 <br>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
+<br>
+-**Web Development**:
+<br>
+<img src="https://img.shields.io/badge/html5-E34F26??style=flat-square&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-1572B6??style=flat-square&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/react-61DAFB??style=flat-square&logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/node.js-339933??style=flat-square&logo=Node.js&logoColor=white">
 <br>
 -**Database**:
 <br>
@@ -46,8 +54,10 @@ Chung-Ang University, School of Software (2019~)
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
 <br>
--**Tools**:
+-**Collaboration**:
 <br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+
